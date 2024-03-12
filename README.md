@@ -1,1 +1,1 @@
-# zero2prod
+# Zero to Production with Rust
